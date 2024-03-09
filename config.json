@@ -1,0 +1,15 @@
+{
+  "log": {
+    "severity": "info",
+    "handler": ""
+  },
+  "http": {
+    "host": "0.0.0.0",
+    "port": 5611,
+    "idle_timeout": "60s",
+    "read_timeout": "60s",
+    "write_timeout": "60s",
+    "shutdown_delay": "1ms",
+    "shutdown_timeout": "10s"
+  }
+}
